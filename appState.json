@@ -1,0 +1,94 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "6740b7b7-6998-45e5-ad3d-edfea4c36379": {
+        "id": "6740b7b7-6998-45e5-ad3d-edfea4c36379",
+        "parent": null,
+        "name": "tokyoooooinduuu.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "tokyoooooinduuu.js",
+        "cursor": {
+          "lineNumber": 2,
+          "column": 5
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "name": "tokyoooooinduuu"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ],
+        "lastUpdated": 1620033449734
+      },
+      "e548a165-42e6-44fd-936c-9711094823d8": {
+        "id": "e548a165-42e6-44fd-936c-9711094823d8",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "6d310c6f-ca85-4748-b0c9-c55d41064a55": {
+        "id": "6d310c6f-ca85-4748-b0c9-c55d41064a55",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "6740b7b7-6998-45e5-ad3d-edfea4c36379"
+    ],
+    "currentFileId": "6740b7b7-6998-45e5-ad3d-edfea4c36379",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.7.4",
+    "projectName": "tokyoooooinduuu",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "asia-northeast1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1620033579846
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "tokyoooooinduuu",
+      "url": "https://github.com/Indunil1992/tokyoooooinduuu"
+    }
+  }
+}
